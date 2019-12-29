@@ -2,6 +2,8 @@
 
 Simple react example to work with rails api [at here](https://github.com/hamityay/task_tracker_api)
 
+To accomplish posted [at medium](https://medium.com/better-programming/creating-a-simple-app-with-react-js-f6aa88998952)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
