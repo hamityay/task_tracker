@@ -1,3 +1,7 @@
+## task_tracker
+
+Simple react example to work with rails api [at here](https://github.com/hamityay/task_tracker_api)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
